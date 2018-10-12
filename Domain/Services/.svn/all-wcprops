@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services
+END
+RecordsTace.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/RecordsTace.cs
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/Settings.cs
+END
+ZLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/ZLib.cs
+END
+ZLibWrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/ZLibWrapper.cs
+END
+SaveReadStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/SaveReadStream.cs
+END
+SnipStreamWrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/SnipStreamWrapper.cs
+END
+Options.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/Options.cs
+END
+Compressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/Compressor.cs
+END
+ZLibBufferType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Services/ZLibBufferType.cs
+END

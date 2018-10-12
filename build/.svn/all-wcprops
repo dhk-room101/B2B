@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/build
+END
+tesvsnip.snk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/66/TESVSnip/branches/dev-nogardeht/build/tesvsnip.snk
+END
+tesvsnip.buildtasks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/66/TESVSnip/branches/dev-nogardeht/build/tesvsnip.buildtasks.dll
+END
+tesvsnip.common.targets
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/build/tesvsnip.common.targets
+END
+buildver.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/build/buildver.txt
+END

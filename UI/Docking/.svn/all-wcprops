@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking
+END
+RecordSearchForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/RecordSearchForm.resx
+END
+BaseDockContent.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/BaseDockContent.Designer.cs
+END
+BaseDockContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/BaseDockContent.cs
+END
+FullRecordEditor.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/FullRecordEditor.Designer.cs
+END
+PluginTreeContent.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/PluginTreeContent.Designer.cs
+END
+FullRecordEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/FullRecordEditor.cs
+END
+PluginTreeContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/PluginTreeContent.cs
+END
+SubrecordListContent.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/SubrecordListContent.Designer.cs
+END
+SubrecordListContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/SubrecordListContent.cs
+END
+BaseDockContent.resx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/BaseDockContent.resx
+END
+FullRecordEditor.resx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/FullRecordEditor.resx
+END
+RichTextContent.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/RichTextContent.Designer.cs
+END
+RichTextContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/RichTextContent.cs
+END
+PluginTreeContent.resx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/PluginTreeContent.resx
+END
+RecordSearchForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/RecordSearchForm.Designer.cs
+END
+RecordSearchForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/RecordSearchForm.cs
+END
+SubrecordListContent.resx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/SubrecordListContent.resx
+END
+RichTextContent.resx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/Docking/RichTextContent.resx
+END

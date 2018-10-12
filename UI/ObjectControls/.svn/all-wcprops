@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls
+END
+RecordSearch.resx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/RecordSearch.resx
+END
+RecordEditor.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/RecordEditor.Designer.cs
+END
+RecordEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/RecordEditor.cs
+END
+PluginTreeView.resx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/PluginTreeView.resx
+END
+SubrecordListEditor.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/SubrecordListEditor.Designer.cs
+END
+SubrecordListEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/SubrecordListEditor.cs
+END
+SubrecordEditor.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/SubrecordEditor.Designer.cs
+END
+SubrecordEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/SubrecordEditor.cs
+END
+RecordEditor.resx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/RecordEditor.resx
+END
+RecordSearch.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/RecordSearch.Designer.cs
+END
+RecordSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/RecordSearch.cs
+END
+SubrecordListEditor.resx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/SubrecordListEditor.resx
+END
+PluginTreeView.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/PluginTreeView.Designer.cs
+END
+PluginTreeView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/PluginTreeView.cs
+END
+SubrecordEditor.resx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/UI/ObjectControls/SubrecordEditor.resx
+END

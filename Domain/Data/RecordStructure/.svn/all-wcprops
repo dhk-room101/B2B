@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/81/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure
+END
+ElementStructure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/81/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/ElementStructure.cs
+END
+Group.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/Group.cs
+END
+RecordXmlException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/RecordXmlException.cs
+END
+RecordStructure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/RecordStructure.cs
+END
+RecordsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/RecordsRecord.cs
+END
+Records.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/Records.cs
+END
+SubrecordElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/81/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/SubrecordElement.cs
+END
+Conditional.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/Conditional.cs
+END
+SubrecordBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/SubrecordBase.cs
+END
+CondType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/CondType.cs
+END
+SubrecordGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/SubrecordGroup.cs
+END
+ElementValueType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/ElementValueType.cs
+END
+Subrecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/Subrecord.cs
+END
+SubrecordStructure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Data/RecordStructure/SubrecordStructure.cs
+END

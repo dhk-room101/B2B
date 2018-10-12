@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox
+END
+IByteProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/IByteProvider.cs
+END
+DataMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/DataMap.cs
+END
+NativeMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/NativeMethods.cs
+END
+HexBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/HexBox.cs
+END
+FileByteProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/FileByteProvider.cs
+END
+ByteCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/ByteCollection.cs
+END
+DynamicByteProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/DynamicByteProvider.cs
+END
+DataBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/HexBox/DataBlock.cs
+END

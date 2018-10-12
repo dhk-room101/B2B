@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/contrib/blast
+END
+blast.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/contrib/blast/blast.c
+END
+test.pk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/66/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/contrib/blast/test.pk
+END
+blast.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/contrib/blast/blast.h
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/contrib/blast/test.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/contrib/blast/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/contrib/blast/Makefile
+END

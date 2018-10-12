@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF
+END
+RTFRowDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFRowDefinition.cs
+END
+IRTFRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/IRTFRow.cs
+END
+RTFBuilderbase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFBuilderbase.cs
+END
+RTFBorderSide.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFBorderSide.cs
+END
+RTFImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFImage.cs
+END
+RTFBuilder.RTFFormatWrap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFBuilder.RTFFormatWrap.cs
+END
+RTFBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFBuilder.cs
+END
+IRtfProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/IRtfProcessor.cs
+END
+RTFCellDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFCellDefinition.cs
+END
+IRTFCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/IRTFCell.cs
+END
+RTFBuilder.UnWrapped.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFBuilder.UnWrapped.cs
+END
+RTFBuilder.RTFFonts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFBuilder.RTFFonts.cs
+END
+RTFCellDefinitionBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFCellDefinitionBuilder.cs
+END
+RTFFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFFont.cs
+END
+RTFRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFRow.cs
+END
+RTFUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFUtil.cs
+END
+RTFAlignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFAlignment.cs
+END
+RTFBuilder.RTFParaWrap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFBuilder.RTFParaWrap.cs
+END
+RTFCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/RTFLib/RTF/RTFCell.cs
+END

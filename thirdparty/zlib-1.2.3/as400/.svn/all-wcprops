@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/as400
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/as400/readme.txt
+END
+bndsrc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/as400/bndsrc
+END
+compile.clp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/as400/compile.clp
+END
+zlib.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/thirdparty/zlib-1.2.3/as400/zlib.inc
+END

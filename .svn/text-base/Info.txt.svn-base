@@ -1,0 +1,48 @@
+﻿------------------
+--   26-10-2012
+------------------
+Fix bug when loading dawnguard.esm (and other plugin in the same case) if record datasize equal zero.
+Add some detection error.
+Fix Issue 11: [TESVSnip] Generate backups of the original plugin before any change is made.
+                         Create backup near TESVSnip.exe like this ..\Backup\PluginName\pluginname.esp.010.bak
+	                     History log with version is delayed because it's very longer and not priority
+Fix bug in HeaderEditor.cs in private static uint GetInt(object i). There is an overflow in bit rotation
+Fix Issue 17: Full Record Editor Error
+
+------------------
+--   26-10-2012
+------------------
+Fix Issue 14: Code review request
+
+http://code.google.com/p/tesv-snip/issues/detail?id=14&sort=-priority&colspec=Summary%20Status%20Priority%20Owner%20Defect%20Docs%20Enhancement%20Review%20Interface%20Other%20Milestone
+
+
+------------------
+--   25-10-2012
+------------------
+Update SanitizeOrder List
+Update AllESMRecords setting
+Update AutoCompressRecords setting
+Add new option : Compress Settings : Plugin Compress Records (i.e. Use Compression Level Defined in Plugin)
+Add new option menu : Set config to default for reset user.config file
+Adjust ZLib wrapper buffer size
+
+TODO: 
+  test save plugin
+  use new compression option
+
+-------------
+BinaryReader.BaseStream Property
+.NET Framework 4
+
+public virtual Stream BaseStream { get; }
+
+Remarks
+Caution note Caution
+
+Using the underlying stream while reading or while using the BinaryReader can cause data loss and corruption. For example, the same bytes might be read more than once, bytes might be skipped, or character reading might become unpredictable.
+
+See link below
+http://msdn.microsoft.com/en-us/library/system.io.binaryreader.basestream%28v=vs.100%29.aspx
+
+

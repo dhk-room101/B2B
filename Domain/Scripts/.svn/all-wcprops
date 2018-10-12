@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/85/TESVSnip/branches/dev-nogardeht/Domain/Scripts
+END
+Keywords.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Scripts/Keywords.cs
+END
+TokenStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Scripts/TokenStream.cs
+END
+PyInterpreter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/85/TESVSnip/branches/dev-nogardeht/Domain/Scripts/PyInterpreter.cs
+END
+ScriptCompiler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/81/TESVSnip/branches/dev-nogardeht/Domain/Scripts/ScriptCompiler.cs
+END
+Token.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Scripts/Token.cs
+END
+TokenType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Scripts/TokenType.cs
+END

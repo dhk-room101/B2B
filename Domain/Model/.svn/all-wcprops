@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/81/TESVSnip/branches/dev-nogardeht/Domain/Model
+END
+SearchCriteriaSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchCriteriaSettings.cs
+END
+BaseRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/BaseRecord.cs
+END
+SearchCondRecordType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchCondRecordType.cs
+END
+FlagDefs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/FlagDefs.cs
+END
+Record.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/81/TESVSnip/branches/dev-nogardeht/Domain/Model/Record.cs
+END
+SearchElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchElement.cs
+END
+SearchCondElementType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchCondElementType.cs
+END
+TESParserException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/TESParserException.cs
+END
+SubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/81/TESVSnip/branches/dev-nogardeht/Domain/Model/SubRecord.cs
+END
+Element.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/Element.cs
+END
+SearchCriteriaXmlSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchCriteriaXmlSettings.cs
+END
+BatchSubrecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/BatchSubrecord.cs
+END
+GroupRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/GroupRecord.cs
+END
+IGroupRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/IGroupRecord.cs
+END
+BatchCriteria.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/BatchCriteria.cs
+END
+ColumnSubrecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/ColumnSubrecord.cs
+END
+Rec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/Rec.cs
+END
+SearchSubrecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchSubrecord.cs
+END
+ColumnSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/ColumnSettings.cs
+END
+ColumnCriteria.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/ColumnCriteria.cs
+END
+ElementAssignmentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/ElementAssignmentType.cs
+END
+SearchCriteriaList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchCriteriaList.cs
+END
+BatchCriteriaSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/BatchCriteriaSettings.cs
+END
+BatchCondRecordType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/BatchCondRecordType.cs
+END
+IRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/IRecord.cs
+END
+SearchCriteria.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchCriteria.cs
+END
+PluginList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/PluginList.cs
+END
+BatchElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/BatchElement.cs
+END
+Delegates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/Delegates.cs
+END
+Plugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/Plugin.cs
+END
+SearchSubrecordXml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchSubrecordXml.cs
+END
+SearchElementXml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/SearchElementXml.cs
+END
+BatchCondElementType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/BatchCondElementType.cs
+END
+RecordChangeEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/RecordChangeEventArgs.cs
+END
+ISelectionContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/ISelectionContext.cs
+END
+ColumnElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Domain/Model/ColumnElement.cs
+END

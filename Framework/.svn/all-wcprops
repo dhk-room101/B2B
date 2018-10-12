@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/89/TESVSnip/branches/dev-nogardeht/Framework
+END
+Extensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Extensions.cs
+END
+EnumerableExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/EnumerableExtensions.cs
+END
+TypeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/TESVSnip/branches/dev-nogardeht/Framework/TypeConverter.cs
+END
+Pair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Pair.cs
+END
+ICloneable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/ICloneable.cs
+END

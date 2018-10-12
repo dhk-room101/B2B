@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib
+END
+CircularBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/CircularBuffer.cs
+END
+CRC32Checksum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/CRC32Checksum.cs
+END
+ChecksumGeneratorBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/ChecksumGeneratorBase.cs
+END
+Inflater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/Inflater.cs
+END
+FlushTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/FlushTypes.cs
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/readme.txt
+END
+DataAvailableHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/DataAvailableHandler.cs
+END
+CodecBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/CodecBase.cs
+END
+ChecksumGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/ChecksumGenerator.cs
+END
+DotZLib.chm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/66/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/DotZLib.chm
+END
+AdlerChecksum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/AdlerChecksum.cs
+END
+Codec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/Codec.cs
+END
+ZLibException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/ZLibException.cs
+END
+CompressLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/CompressLevel.cs
+END
+ZStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/ZStream.cs
+END
+Deflater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/Deflater.cs
+END
+Info.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/Info.cs
+END
+LICENSE_1_0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/DotZLib/LICENSE_1_0.txt
+END

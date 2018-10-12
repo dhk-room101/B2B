@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence
+END
+IPostSerializationCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/IPostSerializationCallback.cs
+END
+serializationinfocachelist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/serializationinfocachelist.cs
+END
+PersistType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/PersistType.cs
+END
+SerializationInfoCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/SerializationInfoCache.cs
+END
+PersistContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/PersistContext.cs
+END
+PersistObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/PersistObject.cs
+END
+PersistAssist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/PersistAssist.cs
+END
+PersistableAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/PersistableAttribute.cs
+END
+PersistContextStates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/PersistContextStates.cs
+END
+PersistSurrogate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Framework/Persistence/PersistSurrogate.cs
+END

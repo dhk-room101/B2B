@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering
+END
+IClusteringStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/IClusteringStrategy.cs
+END
+ClustersFromGroupsStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/ClustersFromGroupsStrategy.cs
+END
+FlagClusteringStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/FlagClusteringStrategy.cs
+END
+DateTimeClusteringStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/DateTimeClusteringStrategy.cs
+END
+Cluster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/Cluster.cs
+END
+FilterMenuBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/FilterMenuBuilder.cs
+END
+ClusteringStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/ClusteringStrategy.cs
+END
+TextMatchFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/TextMatchFilter.cs
+END
+Filters.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/Filters.cs
+END
+ICluster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/TESVSnip/branches/dev-nogardeht/Vendor/ObjectListView/Filtering/ICluster.cs
+END
